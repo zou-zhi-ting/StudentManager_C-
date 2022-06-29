@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="demo_student" targetName="demo_student" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f27ae20-2d64-4cf4-8d5a-da428cf0e11a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="demo_student" />
+  </component>
+  <component name="ProjectId" id="2BBjKYiHrfLuSTkllOzZ9AZU1o5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\mycode\demo-student" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="demo_student" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo_student" TARGET_NAME="demo_student" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo_student" RUN_TARGET_NAME="demo_student">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f27ae20-2d64-4cf4-8d5a-da428cf0e11a" name="Default Changelist" comment="" />
+      <created>1656386308037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656386308037</updated>
+      <workItem from="1656386309162" duration="6651000" />
+      <workItem from="1656481389710" duration="8554000" />
+      <workItem from="1656501198429" duration="1304000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="986" y="176" key="#New_File_Extensions" timestamp="1656392602474">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="986" y="176" key="#New_File_Extensions/0.0.1920.1040@0.0.1920.1040" timestamp="1656392602474" />
+    <state x="1199" y="211" key="#com.intellij.ide.util.MemberChooser" timestamp="1656421665706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1199" y="211" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1656421665706" />
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1656391935304">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1656391935304" />
+    <state width="1877" height="462" key="GridCell.Tab.0.bottom" timestamp="1656502510447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="462" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1656502510447" />
+    <state width="1877" height="462" key="GridCell.Tab.0.center" timestamp="1656502510447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="462" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1656502510447" />
+    <state width="1877" height="462" key="GridCell.Tab.0.left" timestamp="1656502510446">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="462" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1656502510446" />
+    <state width="1877" height="462" key="GridCell.Tab.0.right" timestamp="1656502510447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="462" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1656502510447" />
+    <state width="1185" height="300" key="GridCell.Tab.1.bottom" timestamp="1656489975346">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1185" height="300" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1656489975346" />
+    <state width="1185" height="300" key="GridCell.Tab.1.center" timestamp="1656489975346">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1185" height="300" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1656489975346" />
+    <state width="1185" height="300" key="GridCell.Tab.1.left" timestamp="1656489975346">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1185" height="300" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1656489975346" />
+    <state width="1185" height="300" key="GridCell.Tab.1.right" timestamp="1656489975346">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1185" height="300" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1656489975346" />
+    <state x="626" y="193" key="SettingsEditor" timestamp="1656501989008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="626" y="193" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1656501989008" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1656502430113">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1656502430113" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1656502422922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1656502422922" />
+  </component>
+</project>
